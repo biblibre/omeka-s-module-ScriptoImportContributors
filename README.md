@@ -1,4 +1,4 @@
-# Script Import Contributors (module for Omeka S)
+# Scripto Import Contributors (module for Omeka S)
 
 This module detects when the Scripto module
 [imports content](https://omeka.org/s/docs/user-manual/modules/scripto/scriptoproject/#import-content)
