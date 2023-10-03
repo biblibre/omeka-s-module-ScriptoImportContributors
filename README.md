@@ -14,10 +14,9 @@ See the official documentation section on
 
 ## Usage
 
-Once the module is enabled, it will automatically import contributors whenever
-Scripto import content from Mediawiki.
-
-No configuration is needed.
+Once the module is enabled, you need to configure in which properties
+contributors names will be put. You can put them in an annotation property, in
+a media property, or both.
 
 ## License
 
