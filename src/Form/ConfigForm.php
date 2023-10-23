@@ -27,5 +27,15 @@ class ConfigForm extends Form
                 'empty_option' => 'None', // @translate
             ],
         ]);
+
+        $inputFilter = $this->getInputFilter();
+        $inputFilter->add([
+            'name' => 'scriptoimportcontributors_annotation_property',
+            'allow_empty' => true,
+        ]);
+        $inputFilter->add([
+            'name' => 'scriptoimportcontributors_media_property',
+            'allow_empty' => true,
+        ]);
     }
 }
